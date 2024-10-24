@@ -4,5 +4,5 @@ In this project, I intend to use unsupervised learning techniques such as cluste
 
 
 
-![Clustering Example](/HClustering Batting Scorecard (PCA).png)
+![Clustering Example](/clustering_example.png)
 
